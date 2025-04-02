@@ -26,7 +26,7 @@ Strongest subjects: Mathematics & Programming ✨
 
 🏫 2nd Secondary School "Emilian Stanev" (Graduated 2024)
 
-Graduated with Merit, Top 5 in my graduating class 🎖️
+Graduated with Merit - Top 5 in my school 🎖️
 
 Honored as the School Flag Bearer 
 
