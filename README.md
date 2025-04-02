@@ -22,7 +22,7 @@ Passionate about computer technology, I have been actively improving my knowledg
 ### Education
 University of Mining and Geology "St. Ivan Rilski" (2025 - Present)
 
-1st Year Computer Technologies in Engineering
+-1st Year Computer Technologies in Engineering
 
   Excellence in Mathematics and Programming
 
