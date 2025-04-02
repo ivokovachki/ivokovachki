@@ -14,39 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
-I am a highly disciplined and ambitious individual with a strong sense of responsibility, adaptability, and loyalty. These qualities have helped me achieve academic excellence and excel in sports, where I am a 5-time National Champion in rowing.
+## About Me 👋
+Hey there! I'm a highly disciplined and ambitious person who thrives on challenges and continuous learning. Responsibility, adaptability, and loyalty are values I hold close, and they’ve helped me achieve excellence both academically and in sports where I’m proud to be a 5-time National Champion in rowing 🚣‍♂️🏆.
 
-Passionate about computer technology, I have been actively improving my knowledge and skills for the past three years. Currently, I am focused on C++ and preparing for the C++ Certified Associate Programmer (CPA) certification.
+My passion for computer technology has been driving me for the past three years, and I’m always looking to expand my skills. Right now, I’m diving deep into C++, working toward my C++ Certified Associate Programmer (CPA) certification.
 
-### Education
--University of Mining and Geology "St. Ivan Rilski" (2025 - Present)
+## 🎓 Education
+🎓 University of Mining and Geology "St. Ivan Rilski" (2025 - Present)
 
-1st Year Computer Technologies in Engineering
+Computer Technologies in Engineering 💻
 
-  Excellence in Mathematics and Programming
+Strongest subjects: Mathematics & Programming ✨
 
--2nd Secondary School "Emilian Stanev" (Graduated 2024)
+🏫 2nd Secondary School "Emilian Stanev" (Graduated 2024)
 
-  Class Valedictorian, Top 5 in the graduating class
+Class Valedictorian, Top 5 in my graduating class 🎖️
 
-  School Flag Bearer
+Honored as the School Flag Bearer 🇧🇬
 
-### Experience & Certifications
+## 🏅 Experience & Certifications
 Completed Courses:
 
-Java Basics (SoftUni)
+Java Basics (SoftUni) ☕
 
-Python Basics (SoftUni)
+Python Basics (SoftUni) 🐍
 
-Cybersecurity (ISC2 CC - Certified in Cybersecurity)
+Cybersecurity (ISC2 CC - Certified in Cybersecurity) 🔒
 
 Currently preparing for:
 
-C++ Certified Associate Programmer (CPA)
+C++ Certified Associate Programmer (CPA) 🏗️
 
-### Technical Skills
-C++ (Primary focus)
+## 🛠️ Technical Skills
+C++ (Primary focus) 🚀
 
 Java, Python
 
@@ -55,3 +55,14 @@ Visual Studio 2022
 Microsoft Word, Excel, Access
 
 Graphical Network Simulator 3 (GNS3)
+
+## 🔥 Soft Skills
+Adaptability 🌍
+
+Leadership & Delegation 🎯
+
+Research & Problem-Solving 🔍
+
+Organization 📂
+
+Teamwork 🤝
