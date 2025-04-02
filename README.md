@@ -20,9 +20,9 @@ I am a highly disciplined and ambitious individual with a strong sense of respon
 Passionate about computer technology, I have been actively improving my knowledge and skills for the past three years. Currently, I am focused on C++ and preparing for the C++ Certified Associate Programmer (CPA) certification.
 
 ### Education
-University of Mining and Geology "St. Ivan Rilski" (2025 - Present)
+-University of Mining and Geology "St. Ivan Rilski" (2025 - Present)
 
--1st Year Computer Technologies in Engineering
+1st Year Computer Technologies in Engineering
 
   Excellence in Mathematics and Programming
 
