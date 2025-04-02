@@ -18,7 +18,7 @@ Hey there! I'm a highly disciplined and ambitious person who thrives on challeng
 My passion for computer technology has been driving me for the past three years, and I’m always looking to expand my skills. Right now, I’m diving deep into C++, working toward my C++ Certified Associate Programmer (CPA) certification.
 
 ## 🎓 Education
-🎓 University of Mining and Geology "St. Ivan Rilski" (2025 - Present)
+🎓 University of Mining and Geology "St. Ivan Rilski" (2024 - Present)
 
 Computer Technologies in Engineering 💻
 
@@ -26,9 +26,9 @@ Strongest subjects: Mathematics & Programming ✨
 
 🏫 2nd Secondary School "Emilian Stanev" (Graduated 2024)
 
-Class Valedictorian, Top 5 in my graduating class 🎖️
+Graduated with Merit, Top 5 in my graduating class 🎖️
 
-Honored as the School Flag Bearer 🇧🇬
+Honored as the School Flag Bearer 
 
 ## 🏅 Experience & Certifications
 Completed Courses:
