@@ -46,9 +46,11 @@ C++ Certified Associate Programmer (CPA) 🏗️
 ## 🛠️ Technical Skills
 C++ (Primary focus) 🚀
 
-Java, Python
+Java, Python, JavaScript, HTML
 
 Visual Studio 2022
+
+Visual Studio Code
 
 Microsoft Word, Excel, Access
 
